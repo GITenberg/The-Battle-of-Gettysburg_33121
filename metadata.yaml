@@ -1,0 +1,33 @@
+_repo: The-Battle-of-Gettysburg_33121
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haskell, Franklin Aretas
+    aliases:
+    - Haskell, Frank
+    - Haskell, Frank Aretas
+    birthdate: 1828
+    deathdate: 1864
+    gutenberg_agent_id: '36218'
+    url: http://www.gutenberg.org/2009/agents/36218
+    wikipedia: http://en.wikipedia.org/wiki/Frank_A._Haskell
+description: '"This story of the Battle of Gettyburg was written by Lieutenant Haskell
+  to his brother, H.M. Haskell ... the present being an unexpurgated reprint ..."
+  (p. xxi-xxii).'
+gutenberg_issued: '2010-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gettysburg, Battle of, Gettysburg, Pa., 1863 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'E456'
+title: The Battle of Gettysburg
+url: http://www.gutenberg.org/ebooks/33121
